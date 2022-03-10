@@ -1,0 +1,90 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-gratis/papel-para-caderno-e-ferramentas-de-escola-ou-escritorio-na-mesa-de-madeira-vintage_1249-640.jpg?w=740);
+    text-align: center;
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #FF005C;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top center;
+    align-items: center;
+}
+  
+.page-title {
+    color: #FF005C;
+    margin: 0 0 5px;
+}
+  
+.page-subtitle {
+    color: #FF005C;
+    margin-top: 5px;
+}
+  
+.page-logo {
+    width: 200px;
+}
+  
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.label {
+    font-size: 0.9rem;
+    margin: 3.5rem;
+}
+
+.text {
+  background:#19DD89;
+  border-radius: 0.3rem 0.3rem 0.3rem 0.3rem;
+  padding: 0.4rem;
+}
+
+.nota {
+  margin: 1rem;
+  height: 30px;
+  width: 65%;
+  text-align: center;
+  border-radius: 0.4rem 0.4rem 0.4rem 0.4rem;
+}
+
+.button {
+    background-color: #FF005C;
+    border: none;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-weight: 600;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+  
+.button:hover {
+    background-color:#edafb8;
+    color: #fff;
+    transition: 0.2s;
+}
+
+.attribution {
+  margin-top: 8rem;
+  font-size: 0.7rem;
+}
+  
+.github {
+    font-size: 1rem;
+    text-decoration: none;
+    color:#FF0075;
+}
