@@ -7,7 +7,7 @@ Projeto criado na Imersão Dev - Alura com a @rafaballerini @peas @alura e Guilh
 ![Projeto](https://user-images.githubusercontent.com/38020527/158678808-ff601097-c605-41d7-baf7-b80aeda5f349.PNG)
 
 <br>
-## Tecnologia
+## Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
