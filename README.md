@@ -2,7 +2,7 @@
  <h1>📚Média de Notas</h1>
 </div>
 
-Projeto criado na Imersão Dev - Alura com a @rafaballerini @peas @alura e Guilherme Lima
+Projeto criado na Imersão Dev - Alura com a @rafaballerini, @guilhermeonrails, @peas, @alura
 
 ![Projeto](https://user-images.githubusercontent.com/38020527/158678808-ff601097-c605-41d7-baf7-b80aeda5f349.PNG)
 
